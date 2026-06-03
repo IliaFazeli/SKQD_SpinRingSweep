@@ -17,7 +17,7 @@ Note: the 15-site ring has an **odd number of sites**, which introduces geometri
 
 ## Results
 
-![XXZ 50000 Shots Sweep Results](figures/SKQD_RealBacked_SHOTS 50000.png)
+![XXZ 50000 Shots Sweep Results](SKQD_RealBacked_SHOTS 50000.png)
 
 SKQD tracks exact diagonalization well for $J_{xy} < 0.3$, with increasing error as quantum fluctuations broaden the ground state wave function toward the Heisenberg point. 
 
